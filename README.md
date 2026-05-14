@@ -1,198 +1,92 @@
-<div align="center">
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/ITALOntc)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,45:845EC2,100:FF6F91&height=230&section=header&text=Hi,%20I'm%20Italo%20Gabriel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-end%20Developer%20%7C%20HTML%20%2B%20CSS%20%2B%20JavaScript&descAlignY=55&descSize=18" alt="Hi, I'm Italo Gabriel" />
+# Hi, I'm Italo Gabriel
+### A passionate Front-end Developer from Brazil
 
-<a href="https://github.com/ITALOntc">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=760&lines=Welcome+to+my+GitHub+profile;I+build+web+interfaces;I+am+learning+and+shipping+projects;Code%2C+design%2C+practice%2C+repeat" alt="Typing SVG" />
-</a>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<br />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ITALOntc&label=Profile%20views&color=0e75b6&style=flat" alt="ITALOntc" />
+</p>
 
-<a href="https://github.com/ITALOntc">
-  <img src="https://komarev.com/ghpvc/?username=ITALOntc&style=for-the-badge&color=00C9A7" alt="Profile views" />
-</a>
-<a href="https://github.com/ITALOntc?tab=followers">
-  <img src="https://img.shields.io/github/followers/ITALOntc?style=for-the-badge&logo=github&color=845EC2&labelColor=1A1B27" alt="GitHub followers" />
-</a>
-<a href="https://github.com/ITALOntc?tab=repositories">
-  <img src="https://img.shields.io/github/stars/ITALOntc?style=for-the-badge&logo=github&color=FF6F91&labelColor=1A1B27" alt="GitHub stars" />
-</a>
+<p align="left">
+  <a href="https://github.com/ITALOntc">
+    <img src="https://img.shields.io/github/followers/ITALOntc?label=Follow&style=social" alt="ITALOntc" />
+  </a>
+</p>
 
-</div>
+- I am currently working on **web projects and portfolio improvements**
 
-<br />
+- I am currently learning **JavaScript, responsive design and front-end development**
 
-## Welcome to my GitHub page
+- Ask me about **HTML, CSS, JavaScript and landing pages**
 
-I am **Italo Gabriel**, a front-end developer in progress, focused on building web projects, responsive interfaces and clean user experiences.
+- All of my projects are available at **[github.com/ITALOntc](https://github.com/ITALOntc?tab=repositories)**
 
-I use my GitHub as a public learning lab: every project is a chance to practice, improve the code, test new ideas and build a stronger portfolio.
+- Featured project: **[portfolio](https://github.com/ITALOntc/portfolio)**
 
-- Currently working with **HTML**, **CSS** and **JavaScript**
-- Interested in **front-end development**, **UI design** and **user experience**
-- Building projects such as portfolios, calculators, landing pages and online stores
-- Always improving through practice, consistency and real projects
+- Fun fact **I like turning practice into real projects**
 
-<br />
+### Connect with me:
+<p align="left">
+  <a href="https://github.com/ITALOntc" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ITALOntc" height="30" width="40" />
+  </a>
+</p>
 
-## My favorite tools and technologies
+### Languages and Tools:
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+</p>
 
-> Tools and technologies that I use, study or want to improve with.
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ITALOntc&show_icons=true&locale=en&layout=compact" alt="ITALOntc" />
+</p>
 
-<div align="center">
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ITALOntc&show_icons=true&locale=en" alt="ITALOntc" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br />HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br />CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br />JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br />GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br />VS Code
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br />Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br />Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br />React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br />Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
-      <br />NPM
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
-      <br />Windows
-    </td>
-  </tr>
-</table>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ITALOntc&" alt="ITALOntc" />
+</p>
 
-</div>
+[![Italo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ITALOntc&theme=xcode)](https://github.com/ITALOntc)
 
-<br />
-
-## GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ITALOntc&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="Italo Gabriel GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITALOntc&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Most used languages" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ITALOntc&theme=tokyo-night&hide_border=true&radius=12&area=true" alt="GitHub activity graph" />
-
-</div>
-
-<br />
-
-## Profile views
-
-<div align="center">
-
-<img src="https://count.getloli.com/get/@ITALOntc?theme=rule34" alt="Profile counter" />
-
-</div>
-
-<br />
-
-## Extra pins
-
-<div align="center">
-
-<a href="https://github.com/ITALOntc/portfolio">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ITALOntc&repo=portfolio&theme=tokyonight&hide_border=true&border_radius=12" alt="portfolio" />
-</a>
-<a href="https://github.com/ITALOntc/calculadora-imc">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ITALOntc&repo=calculadora-imc&theme=tokyonight&hide_border=true&border_radius=12" alt="calculadora-imc" />
-</a>
-<a href="https://github.com/ITALOntc/PJ-ROUPAS">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ITALOntc&repo=PJ-ROUPAS&theme=tokyonight&hide_border=true&border_radius=12" alt="PJ-ROUPAS" />
-</a>
-<a href="https://github.com/ITALOntc/loja-de-roupas">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ITALOntc&repo=loja-de-roupas&theme=tokyonight&hide_border=true&border_radius=12" alt="loja-de-roupas" />
-</a>
-
-</div>
-
-<br />
-
-## GitHub profile trophy
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=ITALOntc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub profile trophy" />
-
-</div>
-
-<br />
-
-## Recent GitHub activity
-
-<div align="center">
-
-<img width="95%" src="https://metrics.lecoq.io/ITALOntc?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=America%2FSao_Paulo" alt="GitHub metrics" />
-
-</div>
-
-<br />
-
-## Connect with me
-
-<div align="center">
-
-<a href="https://github.com/ITALOntc">
-  <img src="https://img.shields.io/badge/GitHub-ITALOntc-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://github.com/ITALOntc/portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-project-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6F91,45:845EC2,100:00C9A7&height=120&section=footer" alt="Footer" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/ITALOntc/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ITALOntc&repo=portfolio" alt="portfolio" />
+  </a>
+  <a href="https://github.com/ITALOntc/calculadora-imc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ITALOntc&repo=calculadora-imc" alt="calculadora-imc" />
+  </a>
+</p>
